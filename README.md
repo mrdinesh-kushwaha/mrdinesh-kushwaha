@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dinesh Kushwaha</h1>
 <h3 align="center">I am passionate about learning new things</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrdinesh-kushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="mrdinesh-kushwaha" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=mrdinesh-kushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="mrdinesh-kushwaha](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fswlh%2Fwhat-is-programming-d5aa8fb0f280&psig=AOvVaw0Gh2kOa6XrRBp4Az8qhuwR&ust=1704828325525000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDb3snCzoMDFQAAAAAdAAAAABAD)" /> </p>
 
 - 💬 Ask me about **C , C++, HTML and CSS**
 
