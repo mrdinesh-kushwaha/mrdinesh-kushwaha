@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **C , C++, HTML and CSS**
 
-- 📫 How to reach me **dineshkushwaha1312@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/mrdinesh-kumar/**
 
 - ⚡ Fun fact **😊**-
  
