@@ -6,7 +6,7 @@
 
 - 💬 Skills: **Backend Developer in Java with SpringBoot**
 
-- 📫 How to reach me **[https://www.linkedin.com/in/mrdinesh-kumar/](https://www.linkedin.com/in/mrdinesh-kushwaha/)**
+- 📫 How to reach me **https://www.linkedin.com/in/mrdinesh-kushwaha/**
 
 - ⚡ Fun fact **😊**-
  
