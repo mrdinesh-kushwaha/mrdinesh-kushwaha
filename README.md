@@ -2,19 +2,20 @@
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+Microservices;Building+Scalable+Backend+Systems;Problem+Solver+%7C+500%2B+DSA+Problems+Solved" />
-</h3>
+</h3> 
 
-<img align="right" alt="Backend Developer" width="400"
-src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTh4dm8wOHhhaDlsbXdhMXB3bTR6aXFjY2J1M2Flb2M0MnFzNnE5eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l4FGI8GoTL7N4DsyI/giphy.gif" />
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
 
 ---
-I specialize in building scalable backend systems and production-ready applications using modern Java backend technologies.
 
-- 🚀 Backend Development with **Java, Spring Boot, Microservices**
-- 🔐 Secure Authentication using **JWT, RBAC, Spring Security**
-- 🗄️ Database Design & Optimization with **MySQL / PostgreSQL**
-- 🧪 Unit & Integration Testing with **JUnit / Mockito**
-- 📈 Strong Problem Solving & Data Structures Foundation
+### 👨‍💻 About Me
+
+- 🚀 Java Backend Developer specializing in **Spring Boot & Microservices**
+- 🔐 Experienced in building **JWT Auth, RBAC, Secure REST APIs**
+- 🗄️ Strong in **MySQL, PostgreSQL, Database Optimization**
+- 🧪 Write robust **JUnit & Mockito Test Cases**
+- 📈 Solved **500+ DSA Problems**
+- 💼 Former **SDE Intern @ ADP**
 
 ---
 
@@ -44,7 +45,7 @@ I specialize in building scalable backend systems and production-ready applicati
 </p>
 
 ---
-## 📂 Featured Work
+### 📂 Featured Work
 
 - Production-grade Backend Applications  
 - RESTful API Development  
@@ -68,4 +69,3 @@ I specialize in building scalable backend systems and production-ready applicati
 
 > “First, solve the problem. Then, write the code.”
 
----
