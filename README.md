@@ -4,14 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+Microservices;Building+Scalable+Backend+Systems;Problem+Solver+%7C+500%2B+DSA+Problems+Solved" />
 </h3>
 
----
-
 <img align="right" alt="Backend Developer" width="400"
 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTh4dm8wOHhhaDlsbXdhMXB3bTR6aXFjY2J1M2Flb2M0MnFzNnE5eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l4FGI8GoTL7N4DsyI/giphy.gif" />
 
-## 👨‍💻 Professional Summary
-
-Welcome to my GitHub portfolio.  
+---
 I specialize in building scalable backend systems and production-ready applications using modern Java backend technologies.
 
 - 🚀 Backend Development with **Java, Spring Boot, Microservices**
@@ -25,7 +21,7 @@ I specialize in building scalable backend systems and production-ready applicati
 ### 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/mrdinesh-kushwaha/" target="blank">
+<a href="[https://www.linkedin.com/in/mrdinesh-kushwaha/](https://www.linkedin.com/in/mrdinesh-kushwaha/)" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 <a href="https://leetcode.com/u/mrdineshkushwaha/" target="blank">
