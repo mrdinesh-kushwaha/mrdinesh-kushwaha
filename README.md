@@ -22,7 +22,7 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-<a href="[https://www.linkedin.com/in/mrdinesh-kushwaha/](https://www.linkedin.com/in/mrdinesh-kushwaha/)" target="blank">
+<a href="https://www.linkedin.com/in/mrdinesh-kushwaha/" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 <a href="https://leetcode.com/u/mrdineshkushwaha/" target="blank">
