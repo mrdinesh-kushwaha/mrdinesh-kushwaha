@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dinesh Kushwaha</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Developer;Spring+Boot+%7C+REST+APIs+%7C+Microservices;Building+Scalable+Backend+Systems;Problem+Solver+%7C+500%2B+DSA+Problems+Solved" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Spring+Boot+%7C+REST+APIs+%7C+Microservices;Building+Scalable+Backend+Systems;Problem+Solver+%7C+500%2B+DSA+Problems+Solved" />
 </h3>
 
 ---
@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🚀 Java Backend Developer specializing in **Spring Boot & Microservices**
+- 🚀 Full stack Developer specializing in **Spring Boot & Microservices**
 - 🔐 Experienced in building **JWT Auth, RBAC, Secure REST APIs**
 - 🗄️ Strong in **MySQL, PostgreSQL, Database Optimization**
 - 🧪 Write robust **JUnit & Mockito Test Cases**
