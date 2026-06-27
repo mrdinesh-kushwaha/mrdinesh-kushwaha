@@ -23,7 +23,17 @@
 ### ⚙️ Backend Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,redis,maven,git,github,docker,postman,idea" />
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mysql,postgres,redis,maven,git,github,postman,idea" />
+</p>
+
+### 🎨 Frontend Tech Stack
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,angular" />
+</p>
+
+### 🛠️ Developer Tools & DevOps
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,docker,idea,vscode,jenkins,aws,replit,netlify,vercel,railway,render" />
 </p>
 
 ---
