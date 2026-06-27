@@ -23,7 +23,7 @@
 ### ⚙️ Backend Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mysql,postgres,redis,maven,git,github,postman,idea" />
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mysql,postgres,redis,maven,git,github,postman" />
 </p>
 
 ### 🎨 Frontend Tech Stack
